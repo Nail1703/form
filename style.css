@@ -1,0 +1,70 @@
+body{
+	background: #0cface;
+}
+div{
+	background: white;
+	text-align: center;
+	width: 80%;
+	margin: auto;
+	padding: 45px;
+	padding-top: 20px;
+	border-radius: 10px;
+}
+legend {
+	text-align: left;
+	color: #037f69;
+
+}
+
+fieldset{
+	border: solid #037f69 2px;
+	padding: 10px;
+}
+input{
+	padding: 10px;
+	border-radius: 10px;
+	border: solid #037f69 2px;
+	width: 250px;
+	color: black;
+}
+
+label{
+	text-align: left;
+	display:block ;
+	color:#037f69 ;
+}
+
+select{
+	padding: 10px;
+	border-radius: 10px;
+	border: solid #037f69 2px;
+	width: 271px;
+	color: black;
+}
+
+.Answer {
+	display: inline-block;
+	color: black;
+}
+
+.Answers{
+	display: inline-block;
+	width: 10px;
+}
+
+textarea{
+	padding: 10px;
+	border-radius: 10px;
+	border: solid #037f69 2px;
+	width: 250px;
+	color: black;
+}
+
+button{
+	padding: 10px;
+	border-radius: 10px;
+	border: solid #037f69 2px;
+	width: 250px;
+	color: white;
+	background: #037f69 ;
+}
